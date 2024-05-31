@@ -52,9 +52,7 @@ public class LopCha {
 		System.out.println("Day la phuong thuc 3 public ");
 	}
 	
-	public void vidugoiprivate() {
-		System.out.println("Truy cap den thuoc tinh va phuong thuc private");
-		this.thuoctinh1 = "Thay doi gia tri";
-		this.phuongthuc1();
+	public void goiprivate() {
+		
 	}
 }
