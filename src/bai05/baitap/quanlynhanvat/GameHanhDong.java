@@ -6,7 +6,7 @@ public class GameHanhDong {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		KyBinh kb = new KyBinh("Phuoc", "IT2005","nam", 10, true, false, false, false);
+		KyBinh kb = new KyBinh("Adventure", "DISNEY","nam", 150, true, false, false, false);
 		System.out.println(kb);
 		kb.hanhdong();
 		kb.sucmanh();
